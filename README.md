@@ -1,4 +1,6 @@
-# Patrick Taylor
+<p align="center">
+  <img src="docs/banner.png" alt="Patrick Taylor: I like building tools that check their own numbers." width="800">
+</p>
 
 Applied Math and Computer Engineering at Queen's. NSERC USRA researcher in
 q-deformed mathematics. I like building tools that check their own numbers.
